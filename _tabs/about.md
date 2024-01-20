@@ -4,8 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
 My Name is Salsabel Mosad, and I’m 21 years old, a student in the
 Computer Engineering and Control Systems Department at the Faculty of
 Engineering, Mansoura University. I’m interested in learning Penetration
